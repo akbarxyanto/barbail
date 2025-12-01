@@ -48,5 +48,4 @@ console.log("Ur pairing code : " + code)
 ```
 
 
-Follow https://t.me/xatanicvxii 
-Untuk Join Partnership !
+## Created By t.me/Akbarn8
